@@ -30,34 +30,35 @@
     
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Uptown</a>
+	      <a class="navbar-brand" href="index.html">Event Jember</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="agent.html" class="nav-link">Agent</a></li>
-	          <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-	          <li class="nav-item"><a href="properties.html" class="nav-link">Properties</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item active"><a href="index.html" class="nav-link">UMKM</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">KREASI PEMUDA</a></li>
+	          <li class="nav-item"><a href="agent.html" class="nav-link">ALAM & WISATA</a></li>
+	          <li class="nav-item"><a href="services.html" class="nav-link">SENI & BUDAYA</a></li>
+	          <li class="nav-item"><a href="properties.html" class="nav-link">EVENTS</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">KOMUNITAS</a></li>
+            <li class="nav-item"><a href="contact.html" class="nav-link">LIFESTYLE</a></li>
+             
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap ftco-degree-bg" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap ftco-degree-bg" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg1.webp');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-center align-items-center">
           <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-end">
           	<div class="text text-center">
-	            <h1 class="mb-4">The Simplest <br>Way to Find Property</h1>
-	            <p style="font-size: 18px;">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts</p>
+	            <h1 class="mb-4">Media Partner <br>Event Jember</h1>
+	            <p style="font-size: 18px;">Event adalah situs web yang menyajikan informasi terbaru seputar jadwal acara, konser musik, promo, seminar, jobfair (lowongan kerja), pameran, kompetisi dan info kegiatan ter-update lainnya kepada masyarakat luas.</p>
 	            <form action="#" class="search-location mt-md-5">
 		        		<div class="row justify-content-center">
 		        			<div class="col-lg-10 align-items-end">
@@ -80,13 +81,13 @@
 				</a>
 			</div>
     </div>
-
+-->
     <section class="ftco-section ftco-no-pb">
       <div class="container">
       	<div class="row justify-content-center">
           <div class="col-md-12 heading-section text-center ftco-animate mb-5">
-          	<span class="subheading">Our Services</span>
-            <h2 class="mb-2">The smartest way to buy a home</h2>
+          	<span class="subheading">LAYANAN</span>
+            <h4 class="mb-2">Untuk membantu Anda mengembangkan bisnis Anda, <BR> layanan yang kami berikan diantaranya : </h4>
           </div>
         </div>
         <div class="row d-flex">
@@ -94,8 +95,8 @@
             <div class="media block-6 services d-block text-center">
             	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-piggy-bank"></span></div>
               <div class="media-body py-md-4">
-                <h3>No Downpayment</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3>Konsultasi Event</h3>
+                <p>Layanan untuk membantu Anda menyusun konsep Event.  </p>
               </div>
             </div>      
           </div>
@@ -103,8 +104,8 @@
             <div class="media block-6 services d-block text-center">
             	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-wallet"></span></div>
               <div class="media-body py-md-4">
-                <h3>All Cash Offer</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3>Media Online</h3>
+                <p>Semua event akan dipublikasikan dan disebarluaskan melalui media sosial.</p>
               </div>
             </div>      
           </div>
@@ -112,8 +113,8 @@
             <div class="media block-6 services d-block text-center">
             	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-file"></span></div>
               <div class="media-body py-md-4">
-                <h3>Experts in Your Corner</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3>Info Lowongan Pekerjaan<h3>
+                <p>Kami memberikan informasi lowongan pekerjaan terupdate setiap minggunya.</p>
               </div>
             </div>      
           </div>
@@ -121,8 +122,8 @@
             <div class="media block-6 services d-block text-center">
             	<div class="icon d-flex justify-content-center align-items-center"><span class="flaticon-locked"></span></div>
               <div class="media-body py-md-4">
-                <h3>Lokced in Pricing</h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3>Berita Terupdate</h3>
+                <p>Kami juga memberikan informasi berupa artikel yang terupdate.</p>
               </div>
             </div>      
           </div>
@@ -133,77 +134,55 @@
     <section class="ftco-section goto-here">
     	<div class="container">
     		<div class="row justify-content-center">
-          <div class="col-md-12 heading-section text-center ftco-animate mb-5">
-          	<span class="subheading">What we offer</span>
-            <h2 class="mb-2">Exclusive Offer For You</h2>
+          <div class="col-md-6 heading-section text-center ftco-animate mb-5">
+          	<span class="subheading">Media Partner of</span>
+            <h4 class="mb-2">Beberapa event yang sudah terlaksana, silahkan cek.</h4>
           </div>
         </div>
-        <div class="row">
-        	<div class="col-md-4">
+        <div class="row justify-content-center"">
+        	<div class="col-md-3">
         		<div class="property-wrap ftco-animate">
-        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/work-1.jpg');"></a>
-        			<div class="text">
-        				<p class="price"><span class="old-price">800,000</span><span class="orig-price">$3,050<small>/mo</small></span></p>
-        				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
-        					<li><span class="flaticon-floor-plan"></span>1,878 sqft</li>
-        				</ul>
-        				<h3><a href="#">The Blue Sky Home</a></h3>
-        				<span class="location">Oakland</span>
-        				<a href="#" class="d-flex align-items-center justify-content-center btn-custom">
-        					<span class="ion-ios-link"></span>
-        				</a>
-        			</div>
+        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/media1.jpeg');"></a>
+        			
         		</div>
         	</div>
-        	<div class="col-md-4">
+
+        	<div class="col-md-3">
         		<div class="property-wrap ftco-animate">
-        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/work-2.jpg');"></a>
-        			<div class="text">
-        				<p class="price"><span class="old-price">800,000</span><span class="orig-price">$3,050<small>/mo</small></span></p>
-        				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
-        					<li><span class="flaticon-floor-plan"></span>1,878 sqft</li>
-        				</ul>
-        				<h3><a href="#">The Blue Sky Home</a></h3>
-        				<span class="location">Oakland</span>
-        				<a href="#" class="d-flex align-items-center justify-content-center btn-custom">
-        					<span class="ion-ios-link"></span>
-        				</a>
-        			</div>
+        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/media2.jpeg');"></a>		
         		</div>
         	</div>
-        	<div class="col-md-4">
+
+        	<div class="col-md-3">
         		<div class="property-wrap ftco-animate">
-        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/work-3.jpg');"></a>
-        			<div class="text">
-        				<p class="price"><span class="old-price">800,000</span><span class="orig-price">$3,050<small>/mo</small></span></p>
-        				<ul class="property_list">
-        					<li><span class="flaticon-bed"></span>3</li>
-        					<li><span class="flaticon-bathtub"></span>2</li>
-        					<li><span class="flaticon-floor-plan"></span>1,878 sqft</li>
-        				</ul>
-        				<h3><a href="#">The Blue Sky Home</a></h3>
-        				<span class="location">Oakland</span>
-        				<a href="#" class="d-flex align-items-center justify-content-center btn-custom">
-        					<span class="ion-ios-link"></span>
-        				</a>
-        			</div>
+        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/media3.jpeg');"></a>
+        		
         		</div>
         	</div>
+
+          <div class="col-md-3">
+        		<div class="property-wrap ftco-animate">
+        			<a href="#" class="img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/media6.jpeg');"></a>
+        		
+        		</div>
+        	</div>
+
+          </div>
+
+          </div>
+        	
+
         </div>
     	</div>
     </section>
 
-    <section class="ftco-section ftco-degree-bg services-section img mx-md-5" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg_2.jpg');">
+    <section class="ftco-section ftco-degree-bg services-section img mx-md-5" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg1.png');">
     	<div class="overlay"></div>
     	<div class="container">
     		<div class="row justify-content-start mb-5">
           <div class="col-md-6 text-center heading-section heading-section-white ftco-animate">
-          	<span class="subheading">Work flow</span>
-            <h2 class="mb-3">How it works</h2>
+          	<span class="subheading">Bisnis</span>
+            <h2 class="mb-3">Layanan yang kami berikan</h2>
           </div>
         </div>
     		<div class="row">
@@ -213,8 +192,9 @@
 		            <div class="media block-6 services services-2">
 		              <div class="media-body py-md-4 text-center">
 		              	<div class="icon mb-3 d-flex align-items-center justify-content-center"><span>01</span></div>
-		                <h3>Evaluate Property</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+		                <h3>Event Organizer</h3>
+		                <p>Kami bersedia memberikan kreatifitas demi terpenuhinya tujuan yang ingin anda capai, mulai dari hal
+                    kecil hingga besar, mulai dari persiapan hingga pekerjaan selesai .</p>
 		              </div>
 		            </div>      
 		          </div>
@@ -222,8 +202,8 @@
 		            <div class="media block-6 services services-2">
 		              <div class="media-body py-md-4 text-center">
 		              	<div class="icon mb-3 d-flex align-items-center justify-content-center"><span>02</span></div>
-		                <h3>Meet Your Agent</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+		                <h3>Media Partner</h3>
+		                <p>Kami juga bersedia menjalin kerjasama untuk kelancaran event Anda.</p>
 		              </div>
 		            </div>      
 		          </div>
@@ -231,8 +211,8 @@
 		            <div class="media block-6 services services-2">
 		              <div class="media-body py-md-4 text-center">
 		              	<div class="icon mb-3 d-flex align-items-center justify-content-center"><span>03</span></div>
-		                <h3>Close the Deal</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+		                <h3>Paid Promote/Iklan</h3>
+		                <p>Untuk mengembangkan bisnis, atau mempromosikan event Anda, kami juga melayani jasa iklan atau paid promote.</p>
 		              </div>
 		            </div>      
 		          </div>
@@ -240,8 +220,8 @@
 		            <div class="media block-6 services services-2">
 		              <div class="media-body py-md-4 text-center">
 		              	<div class="icon mb-3 d-flex align-items-center justify-content-center"><span>04</span></div>
-		                <h3>Have Your Property</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+		                <h3>Rental Alat Event</h3>
+		                <p>Kami juga melayani persewaan rental alat event demi kelancaran event Anda.</p>
 		              </div>
 		            </div>      
 		          </div>
@@ -254,14 +234,14 @@
     <section class="ftco-section ftco-no-pb">
 			<div class="container">
 				<div class="row no-gutters">
-					<div class="col-md-6 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/about.jpg');">
+					<div class="col-md-6 p-md-5 img img-1 d-flex justify-content-center align-items-center" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/event1.jpg');">
 					</div>
 					<div class="col-md-6 wrap-about py-md-5 ftco-animate">
 	          <div class="heading-section p-md-5">
-	            <h2 class="mb-4">We Put People First.</h2>
+	            <h2 class="mb-4">Media Partner-Kirim dan Promosi Event(Acara)</h2>
 
-	            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-	            <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+	            <p>Kirim dan promosikan event/acara kamu di HaiEvent.com (media partner), secara mudah dan tidak dikenakan biaya apapun (Gratis), dengan catatan hanya event/acara yang sesuai dengan kebijakan yang akan dipublikasikan..</p>
+	            <p>Event Jember hadir sebagai partner penyelenggara acara, untuk memudahkan partner kami menyederhanakan segala sesuatunya, termasuk tidak perlu mengirimkan proposal event.</p>
 	          </div>
 					</div>
 				</div>
