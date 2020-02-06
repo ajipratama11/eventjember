@@ -37,21 +37,18 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">UMKM</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">KREASI PEMUDA</a></li>
-	          <li class="nav-item"><a href="agent.html" class="nav-link">ALAM & WISATA</a></li>
-	          <li class="nav-item"><a href="services.html" class="nav-link">SENI & BUDAYA</a></li>
-	          <li class="nav-item"><a href="properties.html" class="nav-link">EVENTS</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">KOMUNITAS</a></li>
-            <li class="nav-item"><a href="contact.html" class="nav-link">LIFESTYLE</a></li>
-             
+	          <li class="nav-item active"><a href="index.html" class="nav-link">BERANDA</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">EVENT</a></li>
+	          <li class="nav-item"><a href="agent.html" class="nav-link">BERITA</a></li>
+	          <li class="nav-item"><a href="services.html" class="nav-link">SIGN IN</a></li>
+	          
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap ftco-degree-bg" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg1.webp');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap ftco-degree-bg" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/bg5.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-center align-items-center">
@@ -248,44 +245,6 @@
 			</div>
 		</section>
 
-		<section class="ftco-counter img" id="section-counter">
-    	<div class="container">
-    		<div class="row">
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 py-4 mb-4">
-              <div class="text text-border d-flex align-items-center">
-                <strong class="number" data-number="305">0</strong>
-                <span>Area <br>Population</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 py-4 mb-4">
-              <div class="text text-border d-flex align-items-center">
-                <strong class="number" data-number="1090">0</strong>
-                <span>Total <br>Properties</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 py-4 mb-4">
-              <div class="text text-border d-flex align-items-center">
-                <strong class="number" data-number="209">0</strong>
-                <span>Average <br>House</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 py-4 mb-4">
-              <div class="text d-flex align-items-center">
-                <strong class="number" data-number="67">0</strong>
-                <span>Total <br>Branches</span>
-              </div>
-            </div>
-          </div>
-        </div>
-    	</div>
-    </section>
 
     <section class="ftco-section testimony-section">
       <div class="container">
@@ -436,68 +395,68 @@
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Blog</span>
-            <h2>Recent Blog</h2>
+          	<span class="subheading">Berita</span>
+            <h4>Terbagi menjadi beberapa kategori</h4>
           </div>
         </div>
         <div class="row d-flex">
           <div class="col-md-3 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <div class="text">
-                <h3 class="heading"><a href="#">Why Lead Generation is Key for Business Growth</a></h3>
+              <div class="row justify-content-center">
+                <h3 class="heading"><a href="#">UMKM & KOMUNITAS</a></h3>
                 <div class="meta mb-3">
                   <div><a href="#">July. 24, 2019</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/image_1.jpg');">
+                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/umkm.jpg');">
 	              </a>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                
               </div>
             </div>
           </div>
           <div class="col-md-3 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <div class="text">
-                <h3 class="heading"><a href="#">Why Lead Generation is Key for Business Growth</a></h3>
+              <div class="row justify-content-center">
+                <h3 class="heading"><a href="#">ALAM & WISATA</a></h3>
                 <div class="meta mb-3">
                   <div><a href="#">July. 24, 2019</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/image_2.jpg');">
+                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/alam.jpg');">
 	              </a>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                
               </div>
             </div>
           </div>
           <div class="col-md-3 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <div class="text">
-                <h3 class="heading"><a href="#">Why Lead Generation is Key for Business Growth</a></h3>
+              <div class="row justify-content-center">
+                <h3 class="heading"><a href="#">SENI & BUDAYA</a></h3>
                 <div class="meta mb-3">
                   <div><a href="#">July. 24, 2019</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/image_3.jpg');">
+                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/budaya.jpg');">
 	              </a>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                
               </div>
             </div>
           </div>
           <div class="col-md-3 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <div class="text">
-                <h3 class="heading"><a href="#">Why Lead Generation is Key for Business Growth</a></h3>
+              <div class="row justify-content-center">
+                <h3 class="heading"><a href="#">LIFESTYLE</a></h3>
                 <div class="meta mb-3">
                   <div><a href="#">July. 24, 2019</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/image_4.jpg');">
+                <a href="blog-single.html" class="block-20 img" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/lifestyle.jpg');">
 	              </a>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                
               </div>
             </div>
           </div>
