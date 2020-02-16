@@ -39,6 +39,22 @@
 				</div>
 			</div>
 		</section>
+    <section class="ftco-section ftco-no-pb">
+			<div class="container">
+				<div class="row no-gutters">
+					<div class="col-md-6 p-md-2 img img-1 d-flex justify-content-center align-items-center" style="background-image: url('<?= base_url() ?>/vendor/dashbord/images/image_1.jpg');">
+					</div>
+					<div class="col-md-6 wrap-about py-md-3 ftco-animate">
+	          <div class="heading-section p-md-5">
+	            <h2 class="mb-4">Media Partner-Kirim dan Promosi Event(Acara)</h2>
+
+	            <p>Kirim dan promosikan event/acara kamu di HaiEvent.com (media partner), secara mudah dan tidak dikenakan biaya apapun (Gratis), dengan catatan hanya event/acara yang sesuai dengan kebijakan yang akan dipublikasikan..</p>
+	            <p>Event Jember hadir sebagai partner penyelenggara acara, untuk memudahkan partner kami menyederhanakan segala sesuatunya, termasuk tidak perlu mengirimkan proposal event.</p>
+	          </div>
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<section class="ftco-section">
       <div class="container">
