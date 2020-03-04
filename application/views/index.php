@@ -42,7 +42,7 @@
                     <div class="col-12 d-flex no-block align-items-center">
                         <h4 class="page-title">Dashboard</h4>
                         <div class="ml-auto text-right">
-                            <?= $waktu; ?>
+                            <!-- <?= $waktu; ?> -->
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                             <div style="height: 150px;" class="box bg-success text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-school"></i></h1>
                                 <h6 class="text-white">Jumlah Peserta Didik : Aktif </h6>
-                                <h2 class="text-white"><?= $count ?></h2>
+                                <h2 class="text-white">1</h2>
 
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                             <div style="height: 150px;" class="box bg-danger text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-account-multiple"></i></h1>
                                 <h6 class="text-white">Jumlah Peserta Didik : Non-Aktif</h6>
-                                <h2 class="text-white"><?= $countnon ?></h2>
+                                <h2 class="text-white">1</h2>
 
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                             <div style="height: 150px;" class="box bg-cyan text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-account"></i></h1>
                                 <h6 class="text-white">Jumlah GTK</h6>
-                                <h2 class="text-white"><?= $countgtk ?></h2>
+                                <h2 class="text-white">1</h2>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                             <div style="height: 150px;" class="box bg-warning text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-account-multiple"></i></h1>
                                 <h6 class="text-white">Jumlah Rombel</h6>
-                                <h2 class="text-white"><?= $countrombel ?></h2>
+                                <h2 class="text-white">1</h2>
 
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                 <!-- ============================================================== -->
                 <!-- Sales chart -->
                 <!-- ============================================================== -->
-                <?php if ($jabatan == 2) {
+                <?php if ($jabatan == 1) {
                 ?>
                     <div class="row">
                         <div class="col-md-12">
