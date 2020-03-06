@@ -48,7 +48,7 @@
             <ul class="navbar-nav float-left mr-auto">
 
             </ul>
-            <h5 class="card-header" style="color:#fff;">SDN BADEAN 1 BONDOWOSO</h5>
+            <h5 class="card-header" style="color:#fff;">EVENT JEMBER</h5>
             <!-- ============================================================== -->
             <!-- Right side toggle and nav items -->
             <!-- ============================================================== -->
@@ -92,27 +92,18 @@
         <nav class="sidebar-nav">
             <ul id="sidebarnav" class="p-t-30">
                 <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?= base_url() ?>" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span class="hide-menu">Dashboard</span></a></li>
-                <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="mdi mdi-receipt"></i><span class="hide-menu">Data </span></a>
+                <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="mdi mdi-receipt"></i><span class="hide-menu">Berita</span></a>
                     <ul aria-expanded="false" class="collapse  first-level">
-                        <li class="sidebar-item"><a href="<?= base_url() ?>peserta_didik" class="sidebar-link"><i class="mdi mdi-account"></i><span class="hide-menu"> Peserta Didik</span></a></li>
-                        <li class="sidebar-item"><a href="<?= base_url() ?>gtk" class="sidebar-link"><i class="mdi mdi-school"></i><span class="hide-menu"> GTK </span></a></li>
+                        <li class="sidebar-item"><a href="<?= base_url() ?>peserta_didik" class="sidebar-link"><i class="mdi mdi-account"></i><span class="hide-menu"> UMKM & Komunitas</span></a></li>
+                        <li class="sidebar-item"><a href="<?= base_url() ?>gtk" class="sidebar-link"><i class="mdi mdi-school"></i><span class="hide-menu"> Alam & Wisata </span></a></li>
                     
-                            <li class="sidebar-item"><a href="<?= base_url() ?>Akun" class="sidebar-link"><i class="mdi mdi-school"></i><span class="hide-menu"> Akun </span></a></li>
-                            <li class="sidebar-item"><a href="<?= base_url() ?>Info" class="sidebar-link"><i class="mdi mdi-presentation"></i><span class="hide-menu"> Info </span></a></li>
+                            <li class="sidebar-item"><a href="<?= base_url() ?>Akun" class="sidebar-link"><i class="mdi mdi-school"></i><span class="hide-menu"> Seni & Budaya </span></a></li>
+                            <li class="sidebar-item"><a href="<?= base_url() ?>Info" class="sidebar-link"><i class="mdi mdi-presentation"></i><span class="hide-menu"> Lifestyle </span></a></li>
                       
                     </ul>
                 </li>
-                <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="mdi mdi-library"></i><span class="hide-menu">Akademik </span></a>
-                    <ul aria-expanded="false" class="collapse  first-level">
-                        <li class="sidebar-item"><a href="<?= base_url() ?>rombel/" class="sidebar-link"><i class="mdi mdi-account-multiple"></i><span class="hide-menu"> Rombongan Belajar </span></a></li>
-                        <li class="sidebar-item"><a href="<?= base_url() ?>mapel/mapel" class="sidebar-link"><i class="mdi mdi-library"></i><span class="hide-menu"> Daftar Mata Pelajaran </span></a></li>
-                        <li class="sidebar-item"> <a href="<?= base_url() ?>mapel/" class="sidebar-link"><i class="mdi mdi-book-open-variant"></i><span class="hide-menu"> Jadwal Mata Peljaran</span></a></li>
-                        <li class="sidebar-item"><a href="<?= base_url() ?>Ekskul/index" class="sidebar-link"><i class="mdi mdi-emoticon-cool"></i><span class="hide-menu"> Ekstrakurikuler </span></a></li>
-                        <!-- <li class="sidebar-item"><a href="icon-fontawesome.html" class="sidebar-link"><i class="mdi mdi-emoticon-cool"></i><span class="hide-menu"> Penilaian Siswa </span></a></li> -->
-                        <li class="sidebar-item"><a href="<?= base_url() ?>Absensi_siswa/index" class="sidebar-link"><i class="mdi mdi-calendar-check"></i><span class="hide-menu"> Absensi Peserta Didik </span></a></li>
-                        <li class="sidebar-item"><a href="<?= base_url() ?>Laporan/index" class="sidebar-link"><i class="mdi mdi-calendar-check"></i><span class="hide-menu"> Laporan Abasensi </span></a></li>
-                        <li class="sidebar-item"><a href="<?= base_url() ?>Penilaian/cek_rombel" class="sidebar-link"><i class="mdi mdi-calendar-check"></i><span class="hide-menu"> Penilaian </span></a></li>
-                    </ul>
+                <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="mdi mdi-library"></i><span class="hide-menu">Daftar Media Partner </span></a>
+                    
                 </li>
                 <!-- <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><i class="mdi mdi-printer"></i><span class="hide-menu">Cetak </span></a>
                     <ul aria-expanded="false" class="collapse  first-level">
@@ -122,7 +113,7 @@
                     </ul>
                 </li> -->
                 <br>
-                <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?= base_url('Profile'); ?>" aria-expanded="false"><i class="mdi mdi-contacts"></i><span class="hide-menu">Profil Sekolah</span></a></li>
+                <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?= base_url('Profile'); ?>" aria-expanded="false"><i class="mdi mdi-contacts"></i><span class="hide-menu">Profil Event Jember</span></a></li>
             </ul>
         </nav>
         <!-- End Sidebar navigation -->
